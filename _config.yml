@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://claireponsaran.github.io
+title: I Write
+tagline: whatever  I want to write
+description: My awesome new site
+paginate: 5
